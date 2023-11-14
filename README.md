@@ -71,6 +71,10 @@ For this scripts
 
 ![Photo 2](1.png)
 
+## Videos
+
+![Gameplay Video](gameplay.mp4)
+
 - **First Scene:** Displays the game title and a start button to access the main game scene.
 
 _All scripts mentioned are included in the project file for reference._
